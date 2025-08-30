@@ -1,8 +1,8 @@
-import "./globals.css";
+import "../globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Evolve'Us Business",
+  title: "Evolve’Us Business",
   description: "Suite logicielle & lifestyle pour le bien-être en entreprise",
 };
 
