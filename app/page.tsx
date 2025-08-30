@@ -1,6 +1,6 @@
-import Nav from "./components/Nav";
-import Hero from "./components/Hero";
-import Section from "./components/Section";
+import Nav from "../components/Nav";
+import Hero from "../components/Hero";
+import Section from "../components/Section";
 
 export default function Page() {
   return (
