@@ -1,9 +1,11 @@
-export default function Page() {
+export default function Home() {
   return (
-    <main className="p-8 text-center">
-      <h1 className="text-4xl font-bold text-deep">Bienvenue sur Evolve’Us Business 🚀</h1>
+    <main className="flex min-h-screen flex-col items-center justify-center p-24">
+      <h1 className="text-4xl font-bold text-center">
+        🚀 Bienvenue sur Evolve'Us Business
+      </h1>
       <p className="mt-4 text-lg text-gray-600">
-        Suite logicielle & lifestyle pour le bien-être en entreprise
+        Votre suite logicielle & lifestyle pour le bien-être en entreprise 🌿
       </p>
     </main>
   );
